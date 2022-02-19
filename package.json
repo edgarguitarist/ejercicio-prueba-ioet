@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio-prueba-ioet",
+  "version": "1.0.0",
+  "description": "Ejercicio de prueba como parte del proceso de selección",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarguitarist/ejercicio-prueba-ioet.git"
+  },
+  "keywords": [],
+  "author": "Edgar Laz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarguitarist/ejercicio-prueba-ioet/issues"
+  },
+  "homepage": "https://github.com/edgarguitarist/ejercicio-prueba-ioet#readme",
+  "devDependencies": {
+    "eslint": "8.9.0",
+    "mocha": "9.2.0"
+  }
+}
